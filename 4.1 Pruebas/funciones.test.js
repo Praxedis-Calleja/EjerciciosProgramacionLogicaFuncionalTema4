@@ -15,7 +15,8 @@ const {
 
 // a
 test('10 + 10 debe ser 20', () => {
-    expect(suma(10, 10)).toBe(20);
+
+     expect(suma(10, 10)).toBe(20);
 });
 
 // b
